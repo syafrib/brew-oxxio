@@ -6,11 +6,11 @@ class Oxxio < Formula
   on_macos do
     on_intel do
       url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.3/oxxio_v0.1.3_darwin_amd64.tar.gz"
-      sha256 "160939bfc97307b1444d9b1ac45741ffe4c0fb92c0d69f213f28fc18c16a10d1"
+      sha256 "99dffe15458ec1f566ae6157b7fe8697c33d5a569db72f5d2ed5fb08eacc212f"
     end
     on_arm do
       url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.3/oxxio_v0.1.3_darwin_arm64.tar.gz"
-      sha256 "010845697e6ff95f3ae5073c8df8bc73ce5f22564c4c443d9ba2a1a8d90ed395"
+      sha256 "a6a0f65e04f08ee9f9e09390a03b9d3674ed3c9d8283feb8af248bb8593f616a"
     end
   end
 

@@ -1,16 +1,16 @@
 class Oxxio < Formula
   desc "Oxxio CLI"
   homepage "https://github.com/syafrib/brew-oxxio"
-  version "v0.1.3"
+  version "v0.1.4"
 
   on_macos do
     on_intel do
-      url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.3/oxxio_v0.1.3_darwin_amd64.tar.gz"
-      sha256 "99dffe15458ec1f566ae6157b7fe8697c33d5a569db72f5d2ed5fb08eacc212f"
+      url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.4/oxxio_v0.1.4_darwin_amd64.tar.gz"
+      sha256 "399623401beb4a3168d1bc41acd5ec20b9d1e09e50764fe40b1d9b64b51c4f6b"
     end
     on_arm do
-      url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.3/oxxio_v0.1.3_darwin_arm64.tar.gz"
-      sha256 "a6a0f65e04f08ee9f9e09390a03b9d3674ed3c9d8283feb8af248bb8593f616a"
+      url "https://github.com/syafrib/brew-oxxio/releases/download/v0.1.4/oxxio_v0.1.4_darwin_arm64.tar.gz"
+      sha256 "e60d262dd75a27867fe410f234ee6755bd96705b88bb764dee06aebce28ca867"
     end
   end
 
